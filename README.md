@@ -5,17 +5,13 @@
   <img src="https://raw.githubusercontent.com/MrShadowDani/MrShadowDani/main/assets/eat-sleep-code-repeat.jpg" alt="Eat Sleep Code Repeat" width="600"/>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/daniel-jose-gonzalez-sanabria">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/daniel_gon.s">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://discord.com/users/tu_id_discord">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--0A66C2?style=social&logo=linkedin)](https://www.linkedin.com/in/daniel-jose-gonzalez-sanabria/)
+[![Instagram](https://img.shields.io/badge/Instagram--E4405F?style=social&logo=instagram)](https://www.instagram.com/daniel_gon.s/)
+[![Discord](https://img.shields.io/badge/Discord--5865F2?style=social&logo=discord)](https://discord.com/users/daniel_gon.s)
+
+</div>
 
 ## Sobre mi
 
