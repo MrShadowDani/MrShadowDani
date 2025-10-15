@@ -1,7 +1,9 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="www.linkedin.com/in/daniel-jose-gonzalez-sanabria">Daniel José</a> 👋🏼</h1>
 </div>
-<img src="https://i.imgur.com/Wskj8cn.jpeg">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MrShadowDani/MrShadowDani/main/assets/eat-sleep-code-repeat.jpg" alt="Eat Sleep Code Repeat" width="600"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-jose-gonzalez-sanabria">
